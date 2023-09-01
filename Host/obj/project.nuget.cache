@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oICEZwaFWBok2RR4xOOoJYRDJUlk6PoJXo1E4K2WO5zLBwBQgpluVrPxNWrgy8NDoZqOALsHWLdwb84XfQuaag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\palek\\Desktop\\TSST_2\\TSST_20L_2\\Host\\Host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\palek\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

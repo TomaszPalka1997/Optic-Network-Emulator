@@ -1,0 +1,13 @@
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\bin\Debug\netcoreapp3.1\Dijkstra_Test.exe
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\bin\Debug\netcoreapp3.1\Dijkstra_Test.deps.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\bin\Debug\netcoreapp3.1\Dijkstra_Test.runtimeconfig.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\bin\Debug\netcoreapp3.1\Dijkstra_Test.runtimeconfig.dev.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\bin\Debug\netcoreapp3.1\Dijkstra_Test.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\bin\Debug\netcoreapp3.1\Dijkstra_Test.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\obj\Debug\netcoreapp3.1\Dijkstra_Test.csprojAssemblyReference.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\obj\Debug\netcoreapp3.1\Dijkstra_Test.csproj.CoreCompileInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\obj\Debug\netcoreapp3.1\Dijkstra_Test.AssemblyInfoInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\obj\Debug\netcoreapp3.1\Dijkstra_Test.AssemblyInfo.cs
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\obj\Debug\netcoreapp3.1\Dijkstra_Test.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\obj\Debug\netcoreapp3.1\Dijkstra_Test.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Dijkstra_Test\obj\Debug\netcoreapp3.1\Dijkstra_Test.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\bin\Debug\netcoreapp3.1\SubnetworkController.exe
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\bin\Debug\netcoreapp3.1\SubnetworkController.deps.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\bin\Debug\netcoreapp3.1\SubnetworkController.runtimeconfig.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\bin\Debug\netcoreapp3.1\SubnetworkController.runtimeconfig.dev.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\bin\Debug\netcoreapp3.1\SubnetworkController.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\bin\Debug\netcoreapp3.1\SubnetworkController.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\obj\Debug\netcoreapp3.1\SubnetworkController.csproj.CoreCompileInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\obj\Debug\netcoreapp3.1\SubnetworkController.AssemblyInfoInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\obj\Debug\netcoreapp3.1\SubnetworkController.AssemblyInfo.cs
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\obj\Debug\netcoreapp3.1\SubnetworkController.csproj.CopyComplete
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\obj\Debug\netcoreapp3.1\SubnetworkController.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\obj\Debug\netcoreapp3.1\SubnetworkController.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\obj\Debug\netcoreapp3.1\SubnetworkController.genruntimeconfig.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\SubnetworkController\obj\Debug\netcoreapp3.1\SubnetworkController.csprojAssemblyReference.cache

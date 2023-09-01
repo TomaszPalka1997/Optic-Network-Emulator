@@ -1,0 +1,16 @@
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\bin\Debug\netcoreapp3.1\Switch.exe
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\bin\Debug\netcoreapp3.1\Switch.deps.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\bin\Debug\netcoreapp3.1\Switch.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\bin\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\obj\Debug\netcoreapp3.1\Switch.csprojAssemblyReference.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\obj\Debug\netcoreapp3.1\Switch.csproj.CopyComplete
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\obj\Debug\netcoreapp3.1\Switch.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\obj\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\Router\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache

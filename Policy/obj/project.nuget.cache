@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gVJ0z+owj9i8whDS+9so/J61BVRGz0NPIppyV1RjmBa4Xgevmobo42m6TsyzOcrYYJdHmpjQKE7UppzO/zszww==",
+  "success": true,
+  "projectFilePath": "/Users/paleeczek/Projects/TSST_20L_2/Policy/Policy.csproj",
+  "expectedPackageFiles": [
+    "/Users/paleeczek/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/paleeczek/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/paleeczek/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

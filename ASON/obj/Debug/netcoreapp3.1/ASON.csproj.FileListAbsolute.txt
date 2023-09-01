@@ -1,0 +1,16 @@
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\bin\Debug\netcoreapp3.1\ASON.exe
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\bin\Debug\netcoreapp3.1\ASON.deps.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\bin\Debug\netcoreapp3.1\ASON.runtimeconfig.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\bin\Debug\netcoreapp3.1\ASON.runtimeconfig.dev.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\bin\Debug\netcoreapp3.1\ASON.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\bin\Debug\netcoreapp3.1\ASON.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\obj\Debug\netcoreapp3.1\ASON.csproj.CoreCompileInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\obj\Debug\netcoreapp3.1\ASON.AssemblyInfoInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\obj\Debug\netcoreapp3.1\ASON.AssemblyInfo.cs
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\obj\Debug\netcoreapp3.1\ASON.csproj.CopyComplete
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\obj\Debug\netcoreapp3.1\ASON.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\obj\Debug\netcoreapp3.1\ASON.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\obj\Debug\netcoreapp3.1\ASON.genruntimeconfig.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\ASON\obj\Debug\netcoreapp3.1\ASON.csprojAssemblyReference.cache

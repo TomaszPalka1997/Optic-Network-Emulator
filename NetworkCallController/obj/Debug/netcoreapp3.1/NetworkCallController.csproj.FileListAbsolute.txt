@@ -1,0 +1,13 @@
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\bin\Debug\netcoreapp3.1\NetworkCallController.exe
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\bin\Debug\netcoreapp3.1\NetworkCallController.deps.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\bin\Debug\netcoreapp3.1\NetworkCallController.runtimeconfig.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\bin\Debug\netcoreapp3.1\NetworkCallController.runtimeconfig.dev.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\bin\Debug\netcoreapp3.1\NetworkCallController.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\bin\Debug\netcoreapp3.1\NetworkCallController.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\obj\Debug\netcoreapp3.1\NetworkCallController.csprojAssemblyReference.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\obj\Debug\netcoreapp3.1\NetworkCallController.csproj.CoreCompileInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\obj\Debug\netcoreapp3.1\NetworkCallController.AssemblyInfoInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\obj\Debug\netcoreapp3.1\NetworkCallController.AssemblyInfo.cs
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\obj\Debug\netcoreapp3.1\NetworkCallController.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\obj\Debug\netcoreapp3.1\NetworkCallController.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\NetworkCallController\obj\Debug\netcoreapp3.1\NetworkCallController.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\bin\Debug\netcoreapp3.1\CableCloud.exe
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\bin\Debug\netcoreapp3.1\CableCloud.deps.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\bin\Debug\netcoreapp3.1\CableCloud.runtimeconfig.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\bin\Debug\netcoreapp3.1\CableCloud.runtimeconfig.dev.json
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\bin\Debug\netcoreapp3.1\CableCloud.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\bin\Debug\netcoreapp3.1\CableCloud.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\obj\Debug\netcoreapp3.1\CableCloud.csprojAssemblyReference.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\obj\Debug\netcoreapp3.1\CableCloud.csproj.CoreCompileInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\obj\Debug\netcoreapp3.1\CableCloud.AssemblyInfoInputs.cache
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\obj\Debug\netcoreapp3.1\CableCloud.AssemblyInfo.cs
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\obj\Debug\netcoreapp3.1\CableCloud.csproj.CopyComplete
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\obj\Debug\netcoreapp3.1\CableCloud.dll
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\obj\Debug\netcoreapp3.1\CableCloud.pdb
+C:\Users\palek\Desktop\TSST_2\TSST_20L_2\CableCloud\obj\Debug\netcoreapp3.1\CableCloud.genruntimeconfig.cache
